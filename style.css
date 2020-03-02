@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0
+}
+body {
+    background-color:tan
+}
+
+h1 {
+    text-align:center;
+    color:aquamarine;
+    font-size:36px;
+}
+
+#span {
+    font-size:48px;
+    font-weight:bold;
+    font-style:italic;
+}
+
+
+.navbar {
+    background-color: burlywood;
+}
+
+
+
+.life {
+    
+    font-style: italic;
+
+} 
+
+
+
+.san-diego img, .india img,  .belize img {
+    max-height:15%;
+    max-width:20%;
+    height:auto;
+    
+}    
+
+
+
+.mexico img {
+
+    max-height:12%;
+    max-width:20%;
+    height:relative;
+    
+}
+
+.guatemala img {
+    max-height:15%;
+    max-width:20%;
+    height:auto;
+    
+}    
+
+footer{
+    position:sticky;
+    text-align:center;
+}
